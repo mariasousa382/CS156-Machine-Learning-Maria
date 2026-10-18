@@ -1,0 +1,555 @@
+assignment_id,chunk_id,text,year,subject,class,label
+1,1,"while
+lustre is determined by an interaction between the genotype and the environment. Humidity could affect
+the expression or activity of genes involved in pigment production, and the 2 genotypes respond
+differently to this environmental signal. For instance, G1 and G2 could encode different versions of a
+regulatory protein that controls the expression of an enzyme involved in pigment production. In G1, high
+humidity could alter the regulatory protein so that it decreases expression of the pigment-producing
+enzyme, resulting in a Normal lustre, while low humidity allows greater enzyme expression and produces
+the beautiful Shiny pokemons. G2 could respond in an opposite manner, high humidity increases enzyme
+expression and produces Shiny lustre, while low humidity decreases its expression, producing Normal
+lustre. In this sense, as illustrated by the graph below, the effect of humidity on lustre depends on
+genotype. Importantly, the crossing of the two lines demonstrates the gene-by-environment interaction,
+since the same change in environment has different (in this case opposite) effects on the two genotypes. In this case, forme and lustre could be genetically determined, but the different genotypes are
+non-randomly distributed between the environments. For instance, the genotypes producing Normal Land
+and Shiny Sky could also be ",4,bio,ns144,1
+1,2,"The narrow-sense heritability of literary production in this population is approximately 0.17. In
+other words, 17% of the phenotypic variation in literary production in this population, under these
+environmental conditions, is associated with additive genetic variation. This makes sense, considering
+although the selected parents produced 900 more words per day than the original population average, their
+offspring increased by only 155 words per day on average. Thus, the relatively low narrow-sense
+heritability reflects the fact that only a small proportion of the differences in literary production among
+the selected parents were passed predictably to their offspring through the additive effects of alleles. Conceptually, this means that of the 743 words of total phenotypic variance in the original
+population, about 128 words can be attributed to additive genetic variance. Considering the monkeys are undergoing selective breeding, it makes sense that the genetic
+variance is lower. Only the monkeys with high literary production were allowed to reproduce, so the
+parents were a smaller subset of the original population. As a result, alleles associated with lower
+production may have decreased in frequency or been lost, making the offspring more genetically similar.
+With less genetic variation, particularly additive genetic variation, there is less phenotypic ",4,bio,ns144,1
+1,3,"I know nothing about prions yet I’ve heard whispers on the streets that it’s the scariest entity in
+biology. My high school teacher briefly introduced them as infectious misfolded proteins, to which no
+cure is known. Earlier this year, when we visited UNSAM’s Biotechnological Research Institute in
+Buenos Aires, a student working on prion research told us that if those ever got out of the lab, it’d be the
+end of us all. On the bus ride back – almost as if our phones are listening to us — my Instagram Reels
+introduced me to the Fore People. The Fore population of Papua New Guinea experienced an epidemic of
+kuru, a prion disease that was historically transmitted through cannibalistic postmortem practices. The
+epidemic created a strong selective pressure, and researchers later identified G127V, a variant in the
+PRNP gene that appears to provide strong resistance to kuru. I would love to learn
+more about the apparent prion’s kryptonite, how a single amino-acid substitution can interfere with prion
+propagation and whether this evolved resistance could inform biomedical research. Neurodegenerative
+disease has also affected my family, making me particularly interested in understanding the molecular mechanisms behind neurodegeneration and how discoveries like G127V",4,bio,ns144,1
+2,1,"The amount of samples in our experiment directly correlates to the result obtained. We included only 12 tomatoes, three for each of the treatments. A large sample size with more tomato plants would lead to more accurate and representative results, identifying outliers that possibly skewed the data. By including more tomatoes, we could also be ready for unpredictable events that can lead to the possible death of some of the plants. Thus, in our small sample, there is a risk that observations were due to chance. The tomatoes were also analyzed over a short period of time, of only 7 days. In a long-term study, we would be able to interpret the entire trajectory of the height growth of the tomatoes, analyzing their response to the treatment. There could have been inconsistencies in the height growth recorded across the 7-day trial period. Additionally, there were external and environmental conditions that affected this study. A period of heavy rain most likely altered the concentration of water in some of the plants. It also increased humidity, feasibly altering the end result of the experiment. Other external factors could have possibly impacted the growth of the plants, including drastic changes in temperature and",3,bio,apbio,0
+2,2,"In general, as observed in Table 1, samples with commercial fertilizer Bio Grow grew more than the rest, with an average height difference of 3.03 cm. Closely followed by samples fertilized with eggshells (with an average height difference of 2.4 cm) and coffee grounds (with an average height difference of 2.0 cm). Even though the eggshell samples fared better than coffee ground samples, as seen in Figure 1, the difference is negligible and the most effective fertilizer of the two cannot be determined with the present findings. The samples with no natural or artificial fertilizer experienced the least growth, with an average height difference of 1.2 cm.
+
+During the experiment, two plant samples died due to unidentified factors: one from the No Fertilizer group and another from the Eggshells Fertilizer group. The dead samples were disqualified from the experiment.
+
+It can be concluded that crushed eggshells and coffee grounds are both effective at aiding plant growth; yet, they are not as effective as commercial fertilizer.
+These results show that the homemade fertilizers, crushed eggshells and coffee ground, are beneficial for tomato plant growth; yet, not as effective as the Bio Grow commercial fertilizer. As seen in a study by University ",3,bio,apbio,0
+2,3,"The tomato seedlings were planted individually, in identical plastic cups, after about one week of germination, and were kept inside a classroom with an average temperature of about 25°C. Before introducing the treatments to each of the tomatoes, we measured the height from the soil in centimeters, in order to compare with the final results. 
+
+We introduced eggshells and the coffee grounds to the tomatoes on the first day of the experiment, and continued regularly adding water to them. The eggshells were crushed and placed on the soil of three of the tomatoes, approximately two centimeters below the surface. Meanwhile, one tablespoon of coffee ground was added and mixed to the soil of the other three on the first of the experiment. On the other hand, a beet-based organic fertilizer was used on three of the subjects, diluted in water. About 5 ml of the diluted fertilizer was applied daily to these three tomatoes, matching the amount of water used on the control, eggshells, and coffee grounds. The amount of fertilizer was measured with a graduated cylinder, and it was applied to the tomatoes using a pipet. Water was applied on a daily basis using a wash bottle, and it ",3,bio,apbio,0
+3,1,"Epinephrine (adrenaline) is an animal hormone that stimulates the breakdown of the storage polysaccharide glycogen within liver cells and skeletal muscle cells to release glucose. The liver or muscle cell can use this compound for energy production (cellular respiration) or release glucose into the bloodstream. The overall effect of epinephrine is the mobilization of fuel reserves in situations in which the animals need to either defend themselves (fight) or escape whatever elicited a scare (flight).
+
+Epinephrine stimulates glycogen breakdown by activating a cytosolic enzyme, glycogen phosphorylase. However, epinephrine does not interact directly with the enzyme responsible for glycogen breakdown; a series of intermediate steps must occur inside the cell.
+
+First, the epinephrine binds to a G protein-coupled receptor (GPCR) in liver cells. An enzyme embedded in the plasma membrane, adenylyl cyclase, will be activated and then convert ATP to cyclic AMP (or cAMP), a second messenger. The cAMP broadcasts the signal to the cytoplasm. This molecule does not persist for long in the absence of the hormone because another enzyme, called phosphodiesterase, converts cAMP to AMP. 
+The immediate effect of an elevation in cAMP levels is usually the activation of a serine/threonine kinase called protein kinase A. The activated protein",3,bio,apbio,0
+3,2,"The control group in the beach habitat are the camouflaged Peromyscus polionotus, since they are in their natural habitat and do not receive the experimental treatment of the dark models (that do not typically live there), while the experimental group are the dark, non-camouflaged models, that are not in their typical environment. The control group in the inland habitat are the camouflaged mice (or the dark models) which are native to that habitat, while the experimental group are the non-camouflaged mice (or the light models). The independent variable in the experiment is the color of the model, since they are manipulating the color of the model in their atypical habitat. The dependent variable, on the other hand, is the percentage of attacked models, which was the factor measured in the experiment. Yes, the data collected supports the hypothesis that coloration patterns evolved as adaptations to camouflage mice in their native environments, and thus protecting them from possible predators, since the camouflaged mice suffered the least predation. If the results of the study were only presented as the total number of attacks on non-camouflaged mice, there would be no way of evaluating the results, since we would be missing a control
+
+",3,bio,apbio,0
+3,3,"The study sample consisted of teachers and students within the school. The data was collected timing the different subjects writing their names with their dominant hand, and comparing it with the time they take to do the same task when using their non-dominant hand.  
+The tables show that when individuals wrote with their dominant hand (portrayed in red), the mean of time in seconds was substantially lower than when they used the non-dominant hand (portrayed in blue). Regarding the dominant hand the mean time in seconds was 5.86, while the non-dominant hand had a mean time of 15.44 seconds. The standard error of the mean  graph shows the SEx as error	bars, and the 95% confidence interval graph shows the 95 % CI as error bars. 
+
+The results in the 1st table (Standard Error of the Mean table) revealed that the mean time in seconds of the dominant was 5.86, with a standard error of ± 0.53. Meanwhile, the mean time in seconds of the non-dominant hand was 15.44, with a standard error of 1.91. 
+
+The results in the 2nd table (95% Confidence Interval) table revealed that the mean time in seconds of the dominant was 5.86, with a 95% 
+",3,bio,apbio,0
+4,1,"What makes this situation more complicated is that organisms do not necessarily respond to each
+stressor in isolation. Exposure to one environmental challenge can change how an organism, or even its
+offspring, responds to a completely different challenge later. This is called cross-tolerance when the effect
+is protective, or cross-sensitivity when it makes things worse. In yeast, for instance, mild heat shock can
+increase tolerance to oxidative stress and to osmotic shock, since the cellular defense programs activated
+by heat overlap with those activated by these other stressors. The key molecular
+players in this overlap are heat shock proteins, or HSPs. These are a family of proteins that cells produce
+when they encounter stress of almost any kind. HSPs stabilize other proteins, helping them fold correctly
+and preventing them from clumping together when conditions are harsh.
+Because HSPs are activated by a wide range of challenges, they are a plausible bridge between unrelated
+stressors This bridge is directly relevant to fluoxetine. Fluoxetine is a selective serotonin reuptake inhibitor,
+meaning its primary molecular target is the serotonin signaling pathway. In Daphnia, serotonin helps
+regulate reproduction, feeding behavior, and metabolism. But fluoxetine does not only affect serotonin.
+Authors showed that chronic fluoxetine",3,bio,ns112,1
+4,2,"Recent work has brought the cross-stressor angle into sharper focus. exposed D.
+magna to chlorpyrifos, a common pesticide, followed by a heat spike, across parental and grand-offspring
+generations. They found that parental pesticide exposure made grand-offspring less sensitive to the same
+pesticide. Even more striking, it also reduced the damage that normally occurs when heat and the
+pesticide hit at the same time. The authors identified physiological changes underlying this protection but
+did not examine epigenetic mechanisms. Their study explicitly called for more work on transgenerational
+interactions between different types of stressors.
+My proposal takes this a step further by separating the two stressors entirely: only fluoxetine in the
+parental generation, and only heat in the grand-offspring generation. Fluoxetine is a strong choice because
+it has a well-characterized primary target, the serotonin pathway. If the transgenerational effect affects
+only serotonin-related genes, then epigenetic inheritance is narrowly tuned to the specific stressor the
+parent experienced. But if it also changes general stress-defense genes like those encoding HSPs, then the
+parental stress activated a broader program that overlaps with the cellular machinery needed to survive
+heat. My hypothesis is that sub-lethal parental exposure to fluoxetine in clonal D. magna will alter
+offspring ",3,bio,ns112,1
+4,3,"Several partial-support outcomes would still be informative. If cross-tolerance appears but without
+methylation differences at HSP genes, the mechanism might involve other epigenetic systems I’m not
+measuring, such as histone modifications or small RNAs. If methylation changes appear at HSP genes in
+F1 but not F2, the epigenetic signal fades within one generation, placing a boundary on how long
+cross-stressor memory lasts. If only one dose group shows cross-tolerance, that would help define
+ecologically relevant exposure thresholds.
+There are also outcomes that would fail to support the hypothesis. If F2 grand-offspring from all
+lineages perform similarly under heat stress, fluoxetine does not produce cross-tolerance in this system. If
+methylation changes happen exclusively at serotonin-pathway genes, the epigenetic response is
+stressor-specific rather than general. That would argue against the idea that parental stress primes a broad
+defense system and instead suggests that epigenetic inheritance is narrowly tuned to the challenge the
+parent actually faced. An important alternative explanation to consider is maternal provisioning. Stressed mothers might
+simply invest different resources into their eggs, changing offspring performance through allocation rather
+than epigenetic marks. The F2 generation controls for this, since F1 mothers were raised in clean water
+and so their provisioning should ",3,bio,ns112,1
+5,1,"In an underlying culture of power abuse, impunity, and injuries, often concealed behind a radiant environment of health and safety, gender-based violence is an unrelenting presence in the lives of young female athletes, extensively affecting the victim’s performance and psychological well-being.  Despite the growing urgency of the subject, any substantive change in attitude towards female athletes remains elusive. Countries with specific policies to address this phenomenon are few, and those who have, their implementation is mainly facultative. Although some organizations, such as the International Olympic Committee, have taken action against gender-based violence, this is neither enough nor frequent. Therefore, efforts and policies to reduce gender-based violence should comprise of but not be limited to: the development of sexual violence prevention training programs in coaches’ education; the establishment of a system of registration that requires background checks for those involved; the creation of services to support the victims, such as the establishment of an independent contact point to disclose violations; and new and regular research on the topic over time. The disregard of research focusing on gender-based violence led to the conditions of passivity and denial from sports agencies which consequently didn’t introduce appropriate measures. Hence, there needs to be a ",3,social,apseminar,0
+5,2,"Gender-based violence is not only a violation of the victim’s body but also their mind and can have a great amount of debilitating health consequences. Research by Dr. Colin Lewis from the Liverpool John Moores University appoints that 31% of sexual assault victims present posttraumatic symptoms, and others display depressive symptoms. Experts from the University of Minnesota further determined sexually transmitted infections, truancy, and low self-esteem as effects of sexual harassment. Additional studies have correlated childhood sexual abuse with psychological symptoms such as phobias, panic disorder, obsessive-compulsive disorder, and suicidal ideation and attempts.  In fact, Hanne, a victim of sexual harassment, states that “He [coach] destroyed much of my self-esteem... and I left sport because of that episode,” describing the detrimental outcomes of the situation even causing her to drop out. Loss of confidence can also result from a changed worldview, since female athletes might have regarded themselves as protected from harm due to their physical strength, and such experiences challenged their assumptions of safety and self-worth. Moreover, consequences can also directly impact the victim’s participation in sports, with a decline in their athletic performance, failure to attend training sessions, difficulty concentrating during classes, moving to another sport, or stop ",3,social,apseminar,0
+5,3,"Sports are often equated with a secure and healthy environment that contributes positively to the maturing of young people, but it is also a space where violence can manifest in various ways, including sexual assault. In fact, a report by Ingunn Bjørnseth and Attila Szabo from the Institute of Psychology in Budapest, Hungary, indicates that 29% of the respondents of a large-scale study with over 6,000 undergraduates endured sexual abuse when they were child athletes — a substantially higher estimate than the one for the general child population (18% and 8%, for girls and boys respectively). Another examination by Kari Fasting from the Norwegian School of Sports Sciences, in collaboration with other authors, found that 79% of Czech and 54% of Norwegian female sports students underwent sexual harassment. The varying statistics from divergent studies on the topic are complex to compare due to several factors, including variances in samples, underreporting, and a dearth of information. Despite, based on the available data, it is logical to conclude that gender-based violence in sport is prevalent, and while both genders are affected, girls appear to suffer more sexual violence in the sporting context. Additionally, the considerable time a young athlete spends with the ",3,social,apseminar,0
+6,1,"To evaluate the claim that preferred music alleviates pain, Valevicius et al. (2023)
+conducted a within-subjects experiment with 63 healthy adults across four listening contexts:
+participant-selected favorite music, experimenter-selected relaxing music, scrambled sound, and
+silence. During each, participants received brief thermal stimuli and reported pain intensity and
+unpleasantness on 0–100 scales. After, they also rated music pleasantness, emotional arousal,
+and the number of “chills.”
+Favorite music reduced both pain outcomes relative to controls, with a larger effect for
+unpleasantness and a smaller for intensity. Relaxing music produced a small, non-significant
+decrease in unpleasantness and no clear effect on intensity, while scrambled sound did not differ
+from silence. Across trials, chills predicted lower intensity and lower unpleasantness, whereas
+pleasantness predicted lower unpleasantness only. Arousal was unrelated to either pain measure.
+In order to zero in on which aspects of listening experience accounted for the favorite-relaxing
+gap, the authors tested three mediation models and found that chills significantly mediated the
+advantage of favorite music for both pain outcomes. This suggested that favorite tracks helped
+because they elicited chills more often Moreover, brief interviews regarding favorite tracks were conducted, yielding four
+emotion themes: happy/cheerful, energizing/activating, calming/relaxing, and
+moving/bittersweet. Of these, “moving/bittersweet” showed the ",3,social,ss152,1
+6,2,"The central limitation that becomes obvious from the summary above is that the study is
+purely behavioral and includes no neural or physiological measures. All effects are based on
+self-reported pain and emotion, and any brain mechanism is inferred from prior literature. That
+literature does, however, sketch plausible pathways. Blood and Zatorre (2001) used PET to show
+that when music induces “chills”, activity increases in regions linked to reward and valuation,
+especially the ventral striatum (over the nucleus accumbens) and parts of prefrontal cortex. This
+suggests that emotionally powerful music engages the brain’s reward system shifting how pain
+feels unpleasant. At the same time, a midbrain area likely including the PAG (a hub for
+descending pain control) also shows greater activity, which gives a plausible route for how
+reward circuits (NAc) could turn down incoming pain signals. Converging fMRI work shows
+that favorite music can reduce activity in the anterior cingulate cortex (ACC) during painful
+stimulation, consistent with lowering the affective (unpleasant) dimension
+of pain. Nevertheless, as the original authors emphasize, “these hypothetical neurological
+mechanisms require substantial further study.” Beyond the neural context, several design features matter for interpretation. First, all
+outcomes and mediators are self-reported, and repeated ratings can",3,social,ss152,1
+6,3,"Additionally, the article mentioned the “relaxing condition” was constrained, since the
+tracks were shortened and participants sat upright looking at screen (decreased relaxation). The
+study lacked objective arousal mesuares such as heart rate or skin conductance to validate
+emotion reports. Finally, people who choose “moving/bittersweet” songs may simply be high
+musical engagers who are more prone to chills and deep emotional involvement. The authors’
+personality checks point this direction: those in the moving theme showed stronger
+affective/social/narrative musical engagement, and trends toward engaging more closely with
+their emotional experience. In other words, individuals who chose to bring moving songs may
+usually experience more musical chills and enjoyment, resulting in larger pain reductions,
+independent of specific musical features.
+What about the journalism? The piece gets the basic takeaway right: people reported less
+pain while listening to meaningful music, and emotion mattered more than generic “relaxing”
+tracks. But several parts of the framing overreach. The “as effective as Advil” comparison is not
+a study result. The experiment used self-reported ratings, not pharmacologic benchmarks. The
+article also treats “moving music” as if it were an experimental condition with a direct effect, when in the study this emerged post hoc from interviews about favorite ",3,social,ss152,1
+7,1,"Incarcerated individuals today significantly deviate from those imprisoned prior to the prison boom, when confinement was an infrequent penalty reserved exclusively for the most heinous perpetrators. However, the use of prison sentences increased, resulting in a substantial amount of less serious offenders, for instance, someone struggling with drug addiction, being contained behind bars. The shift in profiles of the average prisoners defies the widely held belief that incarceration vastly reduces crime; in fact, Dr. Wakefield and Dr. Wildeman's research infers that the public safety gains from incarceration are smaller than suspected and are declining. The fundamental change in the prisoners' character further enhanced inequality and intensified social problems. Indeed, the majority of the imprisoned population is from the country's lowest social and economic classes. According to a study conducted by Dr. Bruce Western in Boston, violence isn't an atypical occurrence in these poor social contexts, and it becomes positively valued in the communities. Furthermore, imprisonment targets vulnerable families, weakening family structures, and even leading to child homelessness, as children of incarcerated parents are three times more likely to be homeless. All of these problems are aggravated when analyzing racial disparity; for instance, the paternal imprisonment risk for white children is ",3,social,apseminar,0
+7,2,"Established by the Eight Amendment of the U.S. Constitution, there shall not be inflicted any ""cruel and unusual punishments""; despite, what might be described as America's most open secret, violates this clause. Sexual abuse seems to be an unabated punishment to which convicts, particularly women, are subjected to. Whereas guards and other correctional employees understand that they won't be held accountable and there's no harm in assaulting criminals, female inmates, between 8 and 27% to be more exact, are forced to endure the despicable experiences unable to escape the abuser, often leading them to believe that to halt the abuse they must ""strike back violently"". Some prison employees indeed approach the inmates with respect, and some institutions fulfill their promise of rehabilitation, yet these are still exceptions. Moreover, the media, through movies such as Escape from Alcatraz, has led the public to perceive prisons as perpetual institutions and induced them to think they grasp the entirety of what occurs inside the walls. In reality, the restriction on autonomy and privacy, and the violent and hostile environment, have criminogenic and psychologically destructive effects on prisoners, who become less associated with family, less educated, and less employable, damaging community well being on ",3,social,apseminar,0
+7,3,"Influenced by capitalist ideologies, following the unprecedented growth in the prison population, companies redirected to access the cheapest labor supply - prisoners. Additionally, this new labor force didn't require health benefits, insurance, or worker's compensation and provided extensive profit by extracting labor at severely low wages. According to the U.S. Department of Labor, the minimum wage in the United States is $7.25 per hour; nonetheless, state prisoners earn between $0.13 to $0.32. Consequently, global markets began to rely on prison labor, which became known as the prison industrial complex, benefiting from the high incarceration rates. The system further profits from visiting, mail, and phone calls, which are expensive and often worsen prisoners' families' already precarious financial situations. Michelle Johnson, a mother of two, reveals, ""I'm looking for a second job right now. Buying food, my rent going up, you know, just bills,"" and the financial stress can exacerbate mental health problems and increase risk of divorce. As Angela Davis noted, the system generates ""huge profits from processes of social destruction"", and the convicts don't receive appealing work experience to employers on the outside. Notably, the stigma of a prison record provoked a drop of 10 to 30% in earnings for ex-inmates",3,social,apseminar,0
+8,1,"The death penalty remains a disputed issue in the United States, reflecting a nation torn
+between its pursuit of justice and the moral implications of taking a life as a form of punishment.
+This is reflected by the significant divide in federal laws: as of 2023, 29 states have either
+abolished the death penalty or put executions on hold through executive actions, while 21 states
+continue to uphold the capital punishment as a legal measure. Proponents often cite deterrence, retribution, and the prevention of recidivism as key
+arguments, while opponents challenge its efficacy, fairness, and implications for social equity.
+This analysis will focus exclusively on the death penalty itself, setting aside broader debates on
+the penal system’s purpose, such as the question of rehabilitation versus punishment, and thus
+exploring whether in the current system death penalty is a valid form of punishment. During the discussion with my interlocutor (supporter of capital punishment), his first
+argument outlined that death penalty serves as the ultimate deterrent, positing that the threat of
+facing capital punishment makes potential murderers reconsider their actions. Since society has
+the highest interest in preventing murder, it should employ the stringent punishment available to
+deter it. Furthermore, he highlighted ",1,social,cx51,1
+8,2,"At the most immediate, individual level, the execution of a prisoner indeed nullifies their
+capacity to reoffend, eliminating a potential threat to society. By eliminating several threats, it
+follows that society as whole should become less threatened. However, this fails to consider how
+capital punishment influences and reflects societal norms and values, particularly regarding the
+sanctity of life and the state’s role in administering death as punishment. So at the macro level, it
+could contribute to a devaluation of human life and a culture more accepting of violence as a
+solution to problems, undermining the presumed utility gains. This critique is supported by
+criminologist William Bowers's research which suggests that the death penalty may, in fact,
+exacerbate rather than mitigate murder rates at a societal level. In this sense,
+eliminating individual “threats” can reinforce norms of violence at a macro level, brutalizing
+society, which in turn shapes responses at the individual level (behaviors, attitudes, even
+verdicts), overall increasing “threats” and violence (minimizing utility). My interlocutor’s
+argument also fails to consider the increased suffering of the family of the victim (which would
+also minimize utility) and is very pessimistic in ignoring potential future contributions of the
+prisoner to society. Hence, meeting",1,social,cx51,1
+8,3,"My view also extends to claiming death penalty is particularly unjust due to the
+disproportionate impact on minority groups. Defendants facing capital punishment are often
+those unable to afford private attorneys, and the likelihood of receiving a death sentence is higher
+in cases where the victim is white compared to black.
+Thus, while socioeconomic situation, race, and other arbitrary factors can’t be eliminated as
+determinants, death penalty shouldn’t be used. This mostly aligns with Rawl’s emphasis on
+fairness and equal opportunities, and since the least advantaged are harmed through the bias and
+discriminatory practices associated with death penalty, this policy wouldn’t be adopted if
+constructed behind his veil of ignorance.
+Finally, organizations have highlighted that at least 4% of
+those sentenced to death are innocent. My interlocutor maintains that
+even the theoretical risk of executing an innocent person is justified considering the positive
+effect of deterrence, ultimately saving more lives (and thus maximizing utility). This is where I
+believe it gets particularly tricky. It’s a question of whether you believe it’s better for an innocent
+person to die or a guilty person to live. It really showcases a difference of perspective and a
+contrast between utilitarianism and kantian morality. In",1,social,cx51,1
+9,1,"Furthermore, the physical layout of stores, strategic placement of products, and
+environmental characteristics such as bright lights, loud music, and crowded spaces, can
+maximize sensory stimulation and emotional responses thereby encouraging impulsive purchases.
+In this sense, individual emotions play a significant role in fueling impulsive buying
+behaviors, and retailers strategically leverage emotional triggers to induce purchases. Consider a
+commercial portraying a happy family united over new purchases – this can evoke feelings of
+nostalgia and a longing for a perfect holiday gathering. Such emotions are associated with the
+activation of the hippocampus, responsible for memory formation and retrieval, and the release
+of dopamine, linked to pleasure and reward. This can prompt the individual to
+think “Maybe I do need this product,” and these physiological and cognitive responses can lead
+to the behavior of impulsively buying additional items that customers had not planned to buy This is complemented by findings that impulsive buyers in general show greater emotions
+such as amusement, enthusiasm, joy, and delight when compared to planned buyers. These positive emotions are not only responses to advertisements but also to
+the retail environment itself, which has also been shown to cause impulsive buying behavior. Furthermore, the concept of “smart-shopper ",1,social,cx50,1
+9,2,"Individual consumers experience a range of emotions based on the prices they pay,
+and purchasing an item for a low price leads consumers to feel proud, smart, and competent. There might even be a thrill of feeling victorious over large corporations,
+further contributing to the success of Black Fridays.
+Notably, negative emotions can also drive impulsive buying, and individuals who want to
+escape negative feelings of depression and low self-esteem might impetuously purchase items in
+an attempt to improve their mood. Within this context, individuals with higher emotional intelligence are better equipped to
+recognize and regulate their emotions. Taking into account the four-branch model, customers who possess weaker skills at perceiving and managing emotions (first
+and fourth branches) become easier targets for the BF deals. In comparison, when faced with
+these advertisements, low prices, and sensory stimulation, emotionally intelligent individuals
+may become aware of their own emotions and take steps to regulate them, influencing their
+decision-making and controlling the urge to impulsively purchase items. Overall, it becomes clear that impulsive purchases on BF are a result of the dominant
+influence of Type 1 processing in a high-stress, emotionally charged shopping environment. The
+intuitive, fast decision-making process, driven by sensory and",1,social,cx50,1
+9,3,"In terms of shopping habits, engaging in casual shopping without predetermined goals is
+a significant predictor of impulse buying. BF amplifies this tendency with discounts and special
+offers, tempting consumers to make spontaneous purchases.
+Income level is another critical factor influencing impulse buying behavior. It has been
+found that individuals with higher disposable incomes and access to credit are more prone to
+impulse purchases. During periods of economic uncertainty, this relationship may become more
+complex, with income levels potentially moderating the impulse to buy out of stress 
+The performance of BF marketing thus benefits by taking into account the differences
+among individuals’ gender, shopping habits, income level, and other values, inciting impulsive
+purchases. Shifting from the individual level to a broader societal perspective, each person adds up
+to a significant collective shopping behavior. According to Empirical Rational Choice Theory,
+complex agents assess the satisfaction they derive from different outcomes and maximize their
+utility. With this idea in mind, consumers make choices that they think are maximizing their
+utility during BF: as the price of goods decreases, their purchase amount increases. Yet they fail
+to fully analyze the choices and outcomes rationally because conducting cost-benefit analyses is a very demanding process.",1,social,cx50,1
+10,1,"The concept of a nation suggests a large body of people united by what is common among them; however, this is becoming increasingly distant from reality. In a country that values individualism, rather than natural and healthy disagreement occurring between two different minded individuals, dissension is ripping the union of people apart. Although American society and democracy thrive on engaging and reasoned disagreement, dissension, which is commonly used as a synonym for the former, often has the opposite effect and is characterized by causing quarrels and discord. It is true that debating opposing viewpoints is crucial to the improvement of democracy; yet, poorly articulated thoughts, followed by a lack of respect and consideration for the opposition, are destroying any possibility of constructive national debate, and instead creating more political polarization and hindering social progress.
+
+Dissent often leads to political polarization, contributing to a vast growing gap between Americans. Political polarization, in particular between the democratic and republican parties, is perpetually present in American society, escalating interactions and obstructing governance. Politicians struggle to find common ground and it can even lead to violence amongst the congress members. Alexandria Ocasio-Cortez was an example of such actions, as a Republican member of Congress",3,social,apenglish,0
+10,2,"Rather than carrying out a stimulating and beneficial discussion between the two opposing ideals, even the congressman succumbed to dissension, initiating violence and irrational conversation. Moreover, the polarization present in the population further creates policy gaps and impedes the implementation of programs. Countless issues seen as controversial, for instance, guns, abortion, or immigration, become harder to address, considering one party continuously attempts to block its rival. Thus, dissent halts democracy by heavily influencing leaders and policy makers and contributing to widespread polarization. 
+
+Additionally, dissent inhibits meaningful discourse and halts social progress. It does not only affect America on a governmental level, but also in the capability for meaningful discourse between individuals. With the help of social media, separate groups have identified correct opinions that must be agreed upon, and any divergence is met with harsh punishment, commonly known as canceling. The cancel culture not only limits personal growth, but can oftentimes be unfair. Elizabeth Olsen, for instance, suffered hatred due to not immediately posting on social media after her coworker died. People completely disregarded her perspective on the matter, and canceled her without considering her viewpoint. This intolerance and polarization of ideas increases cognitive biases, creating a limitation in objective",3,social,apenglish,0
+10,3,"  through a filter of personal preferences, and so individuals generate their own subjective reality.  A close minded approach arises from these circumstances, and relationships and intergroup dynamics are negatively affected. Individuals become less likely to provide help, and instead demonize one another. Due to their unwillingness to cooperate, families, workplaces, schools, neighborhoods, are all consequently affected, and a gap between Americans emerges. 
+
+Although antagonism and dissension might feel necessary in conditions of injustice, for instance, polarization was needed when the south continued with practices of slavery, the everyday dissension between individuals is a fundamental problem in the United States. It is worsening social and political antagonism, and people grow continuously intolerant to distinct beliefs. Dissension perpetuates ethnocentric thinking, with individuals believing their practices and customs are superior to others, and can eventually lead to hate crimes, violence, and discrimination against different minded people. So, even though it might have its benefits in certain contexts, the everyday dissension present in American society contributes to hostility, close mindedness, antagonism and polarization. Contrasting with disagreement, which is invigorating for the nation, regular dissension alters relationships and dynamics, negatively affecting the societal interest of the American nation, and compromising the union among its people.",3,social,apenglish,0
+11,1,"Yet, there’s a disconnect. Compared to the modern, chic building outside, this room
+appears to be a journey back in time. Old chairs, worn-out carpeted floors, and in the era of
+digital documents, an entire row of tables against the wall with paper forms and pens. The room
+is disarmingly small and intimate — the waiting area no larger than a bedroom — and with
+absolutely nowhere to hide. The lack of corners or secluded areas makes every action visible,
+and everyone seems to develop a heightened awareness of their own behavior. Visitors willingly
+conform to unspoken norms, adopting quiet tones, sitting with their backs straight, dressing
+formally, and overall demonstrating deference to embassy officials. And so, the Korean Mission
+in Taipei — a small, unassuming embassy located within an overwhelming, highly structured
+urban environment — exerts a striking influence on those who enter. So, even within an
+unassuming environment, visitors recognize their subordination to the institutional power
+represented by the embassy. This reflects Foucault’s insight that power functions not merely
+through physical structures but through the symbolic and psychological meanings embedded in
+them. The structure of this experience is both architectural and psychological, subtly reinforcing
+Foucault’s theories of disciplinary",2,social,ah111,1
+11,2,"Unlike traditional views of power as a coercive or repressive force wielded by a
+sovereign, Foucault argues that power is productive, diffused, and operates through mechanisms
+of discipline and surveillance. In “Discipline and Punish,” the author introduces the concept of
+Panopticism — a prison structure where a central tower observes inmates without them knowing
+if they are being watched. This uncertainty causes individuals to internalize surveillance,
+disciplining themselves to conform to expectations. This serves as a metaphor for modern
+institutions – including embassies – where power operates invisibly yet efficiently. Individuals
+begin to conform to behavioral norms, not because of overt force but due to their awareness of
+being watched. The invisibility of active surveillance makes visitors discipline themselves to
+avoid imagined disapproval. The spacial arrangement at the Korean Mission somewhat mirrors the Panopticon.
+Visibility functions as a form of power in such a small room. Although no guards or explicit
+threats are present, the architecture creates a “conscious and permanent visibility” that ensures
+compliance. The embassy officers are situated in plain sight but maintain an aura of authority,
+reinforcing this dynamic. Visitors discipline themselves — sitting quietly, answering questions
+carefully — because they feel they are being observed and",2,social,ah111,1
+11,3,"The Korean Mission in Taipei thus offers a view of modern power structures, illustrating
+the broader implications of bureaucratic authority for autonomy and identity. The process of
+applying for a visa reinforces the notion that freedom of movement is not an inherent right but a
+privilege granted by institutions of power. This dynamic raises significant questions about
+autonomy. Foucault’s critique of power suggests that individuals are never entirely free from the
+influence of institutions. Even as visitors comply willingly with embassy procedures, their
+behavior is shaped by external norms that they have internalized. This reflects the paradox of
+modern subjectivity: individuals perceive themselves as autonomous agents while
+simultaneously participating in systems that regulate and constrain their identity.
+Critics might argue that visitors willingly comply with embassy norms not because of
+internalized surveillance but because they recognize the practical necessity of following
+procedures. After all, embassies hold real, material power over individuals' mobility. However,
+Foucault would counter that this “practical necessity” is itself a product of power. The embassy’s
+ability to grant or deny visas is not natural but is constructed through systems of governance that
+define citizenship and regulate movement. Visitors' compliance, therefore, is not purely
+pragmatic but is shaped ",2,social,ah111,1
+12,1,"The egalitarian ideal that ""all people are created equal,"" which now strongly influences Western ideology, has not been universal among nations and cultures. On the contrary, of the many factors that caused what is known as the Holocaust, the genocide of the European Jewry during World War II, one of the most relevant was Darwin's understanding that evolution occurs mainly as a result of the elimination of the weak in the struggle for survival. As the history professor, Richard Weikart, stated, ""Darwinism by itself did not produce the Holocaust, but without Darwinism... neither Hitler nor his Nazi followers would have had the necessary scientific underpinnings to convince themselves and their collaborators that one of the worlds greatest atrocities was really morally praiseworthy."" The theory of evolution is focused on individuals acquiring unique traits that enable them to better survive, compared to those who don't possess them. The Nazi believed that instead of permitting natural forces to control evolution, they should direct the process, encouraging the human race to advance. To achieve this goal, they had to isolate ""inferior races"" in order to prevent further contamination of the ""superior"" Aryan gene. Being the race above all others, Aryans claimed that their ",2,social,worldgeog,0
+12,2,"The support by the scientific and academic community, resulted in Darwinism-inspired eugenics and antisemitism thought, having a widespread acceptance among Germans, “justifying” the Holocaust. After all, what greater authority than science could racists have for their views? Hitler was especially interested in preventing Aryans from breeding with non-Aryans, a concern that eventually resulted in the ""final solution"". Once the inferior races were eliminated, Hitler believed that future generations would be forever grateful for the enhancement that his actions brought to humanity.
+The growing popularity of eugenics, the science of regulating a population through controlled breeding, led to the unspeakable atrocities committed by Nazis during the Third Reich. From 1933 to 1945, Germany carried out a campaign to ""cleanse"" German society of individuals considered biological threats to the nation's ""health."" Nazi policy dissolved legal basics for the protection of individual rights, including control over one's body. Scientists used the opportunity in their favor and to advance medical research that mainly relied on experimentation. Human beings soon replaced animals as subjects, and they performed cruel and often fatal experiments on thousands of Jews and other ""undesirables"", like gypsies, homosexuals and people with hereditary diseases. Among the abhorrent studies, physicians ran medical experiments ",2,social,worldgeog,0
+12,3,"From 1933 to 1945, German bioscientists, doctors, and nurses, among the best in the world at the time, willingly committed the most atrocious violations of professional and medical ethics in the name of Holocaust medicine. They justified the sterilization and eradication of ""lives not worth living"" as a merciful preventive measure, impeding the transmission of damaging hereditary traits, while simultaneously ending the suffering of the ""inferior"" races. By the end of the Second World War, 38,000 physicians, slightly less than half of Germany's doctors, had joined the Nazi party, with 7% of them being SS members, contrasting with less than 0.5% of the general population. It's now widely accepted that, contrary to former theories, many physicians who worked for the Third Reich were not psychopaths, but rather ordinary people who ultimately committed horrific crimes believing they were doing the right thing. This realization eternally changed medicine, ensuring that biomedical ethics that guide medical professionals nowadays prevent such intolerable violations of human dignity. 
+As has been noted, Darwinism was used to justified Nazi atrocities during the Holocaust and encouraged their views on both race and war. To prevent such horrors from ever being justified and believed correct ever again, when World ",2,social,worldgeog,0
+13,1,"Kelly’s central idea when critiquing the current rights discourse is that grounding
+animals rights in human-centric traits like autonomy and the capacity to have interests
+reinforces the same hierarchical structure that perpetuates oppression and exploitation.
+In this sense it paradoxically justifies “the rights of the dominant to dominate.” She
+draws from Singer’s and Reagan’s justifications, using examples to show how they
+contribute to the human-animal divide. For instance, apes would be considered
+deserving of rights because they are subjects of experience and have interests similar
+to humans, while shellfish and vermin, which don’t feel pain and thus are less
+“human-like,” deserve less consideration. Kelly, with her background in feminist ethics,
+repeatedly draws parallels to the historical denial of rights to marginalized groups (such
+as women and POC), who were excluded based on their perceived lack of man-like
+qualities like rationality and autonomy. Thus, it follows that awarding rights also based
+on similarity to men doesn’t dismantle the oppressive system that justified their
+exploitation.
+An initial assumption Kelly makes in her discourse is that animals deserve any
+moral consideration at all. Rather than justifying this, her focus is on critiquing how
+animal rights activities construct their claims. However, although her argument ",2,social,ah111,1
+13,2,"would
+lose its appeal in regard to animal rights, it would still hold (less strongly) for other
+marginalized groups. So, a more crucial assumption is that her readers agree that
+hierarchical structures of oppression and exploitation are unjust and should be
+dismantled. If someone utilitarian believes that exploitation has advanced society and
+the stereotypical man is justified in oppressing, they wouldn’t share the belief that
+exploitation is inherently wrong, and Kelly’s critique of the animal rights discourse would
+lose its persuasive power. Her argument depends on a shared desire to reject
+oppressive hierarchies in both human and animal contexts. However, given that her
+argument is aimed at readers interested in rights discourse, she is justified in assuming
+her audience doesn’t want to perpetuate systems of oppression. There, I explicitly stated exile’s consequences and its direct
+impact on the ability to speak and philosophize. With this better-supported premise, the
+argument becomes more sound. Additionally, I clarified the wording of the premises –
+for example, replacing “the I’ll deprive myself of that which makes life worth living” with
+“then I’ll live an unexamined life,” since that connection was already established. I also reordered the premises to enhance logical flow, considering the validity ",2,social,ah111,1
+13,3,"To elucidate, he draws a
+comparison with animals, who act solely instinctively, striving to realize the ends nature
+set for them. In contrast, humans can pursue ends independent of inclinations and
+aren’t merely part of the causal chain of nature. It’s by drawing this distinction that he
+introduces the central concept of this chapter—autonomy, the ability to act
+independently of nature and set ends for oneself purely through reason. In the
+remaining pages, Timmermann builds upon these initial distinctions to develop his main
+ideas. For instance, moral actions stem from this autonomous will (pure will), which
+operates according to the moral law. He acknowledges that rational beings
+often act based on inclinations and desires for particular outcomes, actions that lack
+moral worth since they aren’t autonomous. Yet, because humans possess this
+capacity—this inalienable autonomous will within them—they always deserve respect
+and shouldn’t be treated as means. What’s particularly interesting is that Timmermann
+goes on to argue that recognizing our autonomy—becoming conscious of our moral status as ends in ourselves—serves as motivation to act morally. By continuously
+unpacking Kant’s writing, outlining distinctions, and building our intuition that autonomy
+is a uniquely human capability that elevates us above animals (very positively connotative ",2,social,ah111,1
+14,1,"Amidst the struggles of the women’s rights movement, Judy Syfers – renowned feminist leader – prepares a speech for rally participants in San Francisco criticizing the accepted role of wives and drawing attention to the absurdity of what is expected of women. In her attempt to lay out the unrealistic expectations set for women and raise consciousness of the pressure upon the shoulders of wives and mothers, Syfers listed the jobs women faced at home, building tension and anger through repetition, and juxtaposed double standards with a tone that highlights the inherent sarcasm.
+Syfers points out the disparities between genders by listing the overwhelming duties of a wife, combining wit and sarcasm to show a different perspective of women. The phrase ""I want a wife"" is repeated in order to point out the selfishness of the men that capture the perception of an ideal wife. She underscores the numerous duties regarding her husband, who should ""keep [his] clothes clean,"" ""cook the meals,"" and ""care for [him] when [he is] sick."" This exemplifies and contextualizes the role of women in society,  pointing out the absurdity of what is expected of a wife, to show how the situation is unrealistic. Syfers further",3,social,apenglish,0
+14,2,"adds an authoritarian demand on how women are expected to accept their role without complaint. She states that an ideal wife should ""not bother [the husband] with rambling complaints about [their] duties,"" adding another layer to the requirements. By doing so, she is supporting her central argument that women's roles are unappreciated and unequal to a man's. The stereotypical qualities that men want women to have also include social obligations, as the author claims that the wives should take care of all the aspects of a men's social life. She uses men's one sided perspective to reveal how much is expected of women — in particular, wives. 
+Syfer further includes a juxtaposition of the expectations for wives and husbands, emphasizing the double standards present in regards to gender, contributing to the author’s sarcastic approach. She states that the ideal wife “makes love passionately and eagerly when I feel like it,” but when the roles are reversed, the wife should “not demand sexual attention.” A clear double standard is presented with the idea that the wives have the sexual obligation of making sure the man is always satisfied, even if they aren’t content themselves, but the husband has no duty of ",3,social,apenglish,0
+14,3,"fulfilling his wife’s desires, especially if he is not in the mood. The author further explores this idea when describing how the wife should always “remain sexually faithful,” while the man’s sexual needs “may entail more than strict adherence to monogamy.” Again, by juxtaposing the expectations directed towards the woman and man in a relationship, there is a clear disparity. The woman is to remain loyal to a single sexual partner, while the man can enjoy as many partners as he wishes. Moreover the inclusion of these double standards adds to the sarcastic tone of the passage, pointing out the absurdity of the expectations thrusted upon women. In fact, the piece concludes with an ironic question “My God, who wouldn’t want a wife?"", thus criticizing the “accepted” role of wives and highlighting how unrealistic all these expectations are. Although Source H makes a lot of assumptions regarding what several elements in the performance could mean, it does highlight valid interpretations made by the audience of the Super Bowl and provides several viewers' statements as evidence. Regardless, awareness of the events in Puerto Rico and the American border is extremely important to immigrants and other members of the nation. Moreover, she",3,social,apenglish,0
+15,1,"In this song, Taylor travels back in time to the late 18th century - mid 19th century, the Romantic period
+and also when a group of English poets known as the “Lake Poets” lived in England’s Lake District. This
+is evidently reflected in the title of the song and its theme of escapism, since the lakes are known to be
+where the famous poets went to escape from the world, away from negativity and critics, suggesting she
+relates to these people who 100 years ago had the same exit plan as her and underwent similar
+experiences in terms of others telling them how much their words are worth.
+In the first line of the song “Is it romantic how all my elegies eulogize me?” she is making a reference
+both to her reputation of romanticizing music, and the romantic time period. Moreover, a elegy is a sad poem or song that expresses sorrow for someone who has passed away (negative connotation), while an
+eulogy is designed to celebrate the life of someone (positive connotation), and in this sense it appears she
+is asking “is it romantic that all of my sad songs that I’ve written in the past are the ",1,literature,mc51,1
+15,2,"Swift's skillful use of alliteration, assonance, and internal rhyme enhance the song's musicality. The
+repetition of the ""i"" sound in words like ""eulogize,"" ""die,"" ""like,"" ""cry,"" ""right,"" ""ice,"" ""cliffside,""
+throughout the song, mimic the sound of “sigh,” and add to the song's melancholic tone, emphasizing the
+theme of lamentation. The next lines of “I'm not cut out for all these cynical clones; These hunters with
+cell phones,” show a alliteration with the letter c and assonance with words such as phones and clones.
+The hunters described refer to paparazzi, reporters and critics, and potentially reference the cancel culture
+she suffered after her reputation album and all the Kardashian West drama.
+In the chorus she refers to the Romantic poets, to name a few William Wordsworth, Samuel Taylor
+Coleridge, John Keats, Robert Southey, but out of these, only Wordsworth actually died in the area. In this
+sense, the “death” Taylor suggests is a metaphorical one, with feelings of fatalism. It is also relevant to
+consider that the Romantic poets recharacterized death, namely Wordsworth talked about becoming one
+with nature. Again Swift employs alliteration and assonance in ""Windermere peaks look like a perfect
+place to cry"" and the repetition of 'p' and ",1,literature,mc51,1
+15,3,"In the first line of the bridge she talks about auroras and sad prose, and by providing an example of beauty
+and sadness she potentially expressed how she wants both the ups and downs of life. She then talks about
+wisteria, a symbol of romance and a flower known for living up to a century. It could symbolize how she
+wants her love to last, how she wants to put down her roots and live a life away from chaos, or could be
+referring again to the immortality of the poets. She continues the nature imagery with “A red rose grew up
+out of ice frozen ground,” and the contrast in this sentence could be about her muse being the good in all
+the bad, or even her album being born amidst the pandemic. By adding “With no one around to tweet it,”
+it’s as if she is referring to a philosophical though experiment and asking “Did the rose really grow if no
+one tweeted it?” And the “tweet” also has the double meaning of “twitter” or a bird tweeting, which
+connects to the natural scene. Then, manages to include multisyllabic words such as “calamitous” and
+“insurmountable” without breaking the",1,literature,mc51,1
+16,1,"Since the moment he opened his seemingly yellow eyes, the monster was alone in the world. Frankenstein took one look at his creation and turned away in horror and disgust at what he had made, leaving the creature to navigate the complicated world of men. He quickly recognizes his place in society and isolates himself in the desolate mountains. However, he ends up taking shelter in a house close to where a normal family of humans live. He begins observing human relationships and the bonds of love and devotion shared by the habitants of the small cottage. He learns to speak, learns to read, but ultimately learns that he is truly alone. For a while, he still holds on to the hope that this family of humans will be grateful to him for all his help, and accept and love him for what he is. But soon these hopes are destroyed, leaving a pain so deep that induces the creature to commit murder and truly transform into the “monster” Victor Frankenstein was making him out to be. 
+In the midst of his solitude and frustration the monster uses his knowledge of the romance books he read and the relationship he",2,literature,english,0
+16,2,"Margaret Saville is the first woman to appear within the novel, and like every other female character we only hear and learn about her through a male narrator. Even though her existence and the letters addressed to her are the whole premise for the book, Margaret is still just a passive character whose importance is solely providing a reason for Robert to tell his story. While her brother travels the world chasing his ambitious dreams, Margaret is confined to the private sphere, and as illustrated by the following passage “I may receive your letters on some occasions when I need them most to support my spirits,” her purpose is established as supporting her brother’s spirits and being a source of happiness. So, ironically, although she is the most necessary character to the novel as a whole, she is also the most passive and distant of all. 
+Furthermore, Justine, a servant of the Frankenstein family and caretaker of William, is included in the story as a passive victim of circumstance. Although the reader and Victor know the monster to be the murderer, she is the appointed suspect of killing William and unsurprisingly, she doesn’t have any say in the matter. She",2,literature,english,0
+16,3,"This even becomes more evident when he seems to like the teacher who agrees with him, while the one that demonstrates difference of thought is afterwards described as a “little conceited fellow.” This shows his narcissistic nature as someone who is used to being always praised and always right, having everything going his way. Thus, he builds the monster barely even considering the ethical consequences of creating life. He wants to prove his superior intellect and achieve the unachievable. He is blinded by the thought of glory and success. This makes him all the more responsible for his later miseries. He acted without thinking, and after being utterly disappointed with the result of his creation, he simply lets the monster wander around free without taking any effort to either stop the monster or help him. Maybe if he would have been more of a father figure to the creature, no one would have to die. It was his abandonment of the creature he created that condemned his future. 
+
+Throughout the book it is possible to notice some form of character growth. Firstly with the decision of not creating a second monster. In the beginning of the book he would have",2,literature,english,0
+17,1,"The essence of the proverb underscores the significance of persistence in achieving
+goals— an enduring spirit that characterizes the Portuguese national identity. Rooted in the virtue of
+resiliency, this identity significantly influences contemporary romantic relationships, bringing harmful
+consequences, particularly in dynamics involving abusive partners.
+Throughout history, Portugal, like many other nations, faced a myriad of challenges. Yet, what
+distinguishes it, is an unwavering spirit of persistence and resilience, maintaining consistent efforts even
+in the face of incredible adversity. Notably, during the Age of Discoveries, countless men embarked on
+perilous and unprecedented sea voyages. These navigators, confronting the vast unknown, hostile forces
+of nature, and the imminent prospect of failure, etched their journey into what became the ""national epic""
+of Portugal — The Lusiads by Luís Vaz de Camões. This poem in epic form, traditionally employed to
+celebrate the feats of heroes, chronicles Vasco da Gama's historic voyage as the first European to reach
+India via the Atlantic Ocean in ten songs or episodes. One such episode portrays the giant Adamastor,
+representing the Cape of Torments located at the southernmost point of Africa, where innumerable
+Portuguese men died crushed against the rocks. In the waters, described as where “the storm-winds, and",1,social,mc50,1
+17,2,"Accordingly, after defeating this giant,
+Portugal’s sailors were able to cross Africa, renaming the location to Cape of Good Hope. This resilience,
+deeply rooted in the historical experiences of Portuguese sailors, endures as a defining element of the
+Portuguese character – one that every young citizen reads about – serving as a source of pride and
+inspiration.
+2
+The virtue of resilience is also evidently celebrated in the retellings of the iconic Battle of Aljubarrota,
+fought on August 14, 1385 following a succession crisis triggered by the death of King Ferdinand I
+(Monteiro, 2006). Two different men felt entitled to take the throne: King Ferdinand’s half and
+illegitimate brother John I, and King John of the rival realm of Castille, who was now married to the
+widow of the deceased king. The ensuing conflict, known as the Crisis of 1383-1385, led to the decisive
+confrontation at Aljubarrota. If Castille had ultimately won the battle, Portugal would have been
+overtaken by Castille and would cease to exist as an independent kingdom. The Battle of Aljubarrota
+achieved iconic status due to the resounding and highly unlikely victory of the Portuguese forces against a
+larger and more experienced Castilian army. The Portuguese were ",1,social,mc50,1
+17,3,"This historical trend can even be discerned in the peculiar folklore tale of the origin of my birth town’s
+name: Linda-a-Velha (directly translated to Beautiful, the Old Woman). Legend says that an incredibly
+beautiful young woman lived in the settlement where I spent my first decade of life. She rejected every
+man’s affection, despite many seeking her love. One day, the woman met a very handsome knight, and
+they spent their days deeply in love with one another. After the knight was drafted to fight in a war, the
+young woman spent her days standing by the window of the tower where she lived, gazing at the Tejo
+River and hoping for his return. Time passed by and the young woman aged, continuing to wait for her
+beloved. Meanwhile, beneath her window, young people walked by every day, and, gazing at the
+miraculously unblemished face of the old woman, never tired of saying, 'How beautiful the old woman!'.
+This folklore story teaches young generations to be resilient in their love lives; in other words, to never
+give up on a relationship. The story contributes to the narrative of hoping for the impossible (or highly
+unlikely). It highlights a pervasive mentality:",1,social,mc50,1
+18,1,"Long before the Portuguese arrived, the Indian Ocean contained thriving trade routes and merchants exchanging valuable products. Nevertheless, in the 16th century, various inventions, such as the caravel, allowed Europeans to venture long distances on the ocean and thus led to Portuguese exploration. Engaging in transoceanic trade, the Portuguese became active in the Indian Ocean, hoping to acquire riches and new converts. In this era of empire-building, conquests brought abundant wealth through the collection of taxes and new trading opportunities. Despite having to compete with regional states, the Portuguese significantly transformed maritime trade in the Indian Ocean, particularly by establishing fees and regulations on trading processes, implementing restrictions on empires, and removing trading power from previous Muslim merchants, in a process of ensuring control and acquiring substantial wealth.
+
+The Portuguese greatly increased their impact on Indian Ocean trade by changing the activity in the trading network and removing muslim merchants from exchange practices. Muslim traders had previously possessed power in such networks, increasing the revenue of local rulers and exchanging native products for foreign merchandise. This becomes evident in Document 1, as Muslim merchants express their concern regarding the Portuguese arrival and its political and economic consequences. They claim the ",3,social,apworldhistory,0
+18,2,"However, this account is possibly biased, since it is written from a Portuguese perspective as he emphasizes the positive results of the trading posts established. Document 3 further reinforces Portuguese intentions, as it illustrates their awareness of the alliance between the Turks and Muslim local merchants. The letter includes an honest analysis of the threats to the Portuguese spice monopoly and supports the concept that in order to prosper the Portuguese had to remove Muslims merchants’ power. In that respect, the changes inflicted on the trading systems contributed to Portugal’s growing affluence. 
+
+Moreover, the Portuguese accumulated revenue from trade by establishing fees and regulations on trading processes. The Muslim city-state Malacca had become wealthy by building a navy and imposing fees on ships that passed through the Strait of Malacca. The Portuguese later conquered Malacca and in a somewhat similar manner generated great wealth for their empire by requiring ships to carry a safe conduct pass which was “issued for a certain fee.”. Al Sageer, being a Muslim religious scholar, condems the Portuguese actions, but admits that their system had been accepted by Calicut merchants and describes the success in the implementation of the safe conduct passes. In order to ",3,social,apworldhistory,0
+18,3,"While, the majority of enslaved Africans were transported and sold in the Americas, the Portuguese also engaged in an extremely lucrative slave trade in the Indian Ocean. The enslaved people were likely to provide forced labor in seaports and in the shipping industry, some even worked as sailors and soldiers. Thus, the practices described in Document 4 of intercepting vessels at ports and capturing and selling passengers further illustrates how the trade routes were disrupted by the Portuguese in order to generate more revenue and ensure control. 
+
+Additionally, the Portuguese implemented restrictions and regulations on empires and used their military power to dominate trade. In order to favor themselves and maintain control over a monopoly of spices, the Portuguese prevented trade agreements from proceeding between the Ottomans and Muslims, restricting the power of other empires. Furthermore, as described in Document 4, the Portuguese used cannons and other violent naval artillery to sink the passing ships, using their military competence to limit the trading network and ensure their control of trade. It is true that among the many changes they implemented, the Portuguese weren’t always successful. Cochin traders sold their pepper “green and full of filth” due to their ºersevering loyalties",3,social,apworldhistory,0
+19,1,"The orange walls. That was the first thing the Girl noticed stepping out of the elevator.
+A Girl because she wasn't a woman yet. You see, women have a direction to their step.
+They have color-coded calendars filled with appointments, active bank accounts under their
+names, agendas with pages of crossed-over to-do lists. They have clear objectives and are
+working towards them.
+They know where they are – who they are.
+For the purpose of this story, we'll call her a girl. Although others might have called her
+differently.
+The Girl once read something about the colors of walls and their impact on the
+environment. She remembered Orange stimulated innovative thinking and contributed to a
+welcoming atmosphere. Blue — the shade covering the remaining walls — was associated with
+calmness and enhanced focus. It made so much sense. Creativity and productivity — the perfect colors to adorn
+WeWork.
+The walls were part of a modern design focusing on clean lines, functionality, and a mix
+of contemporary materials. The fundamentally open layout with shared desks and communal
+areas seemed to encourage interactions among members, while the large windows ensured a
+well-lit and energetic atmosphere. The choice of furniture reflected premeditation, with its
+flexibility allowing members",1,literature,mc50,1
+19,2,"The wooden tables were covered with tea mugs and coffee cups — some still full and
+steaming, others empty or chilled, leaving rings of condensation next to computers and
+headphones and chargers and keyboards and laptop stands and mouses and notebooks and pens
+and everything else necessary to work effectively. All of this belonged, of course, to men and
+women — so many men and women — wearing crisp dress shirts and elegant business suits
+lined with purpose and ironed with professionalism.
+They were from different backgrounds too, diversity reflected in their skin tones, and all
+smiled at each other without discrimination, casually laughing and exchanging ideas.
+Three floors of mutual respect, collective productivity, and latte machines — the Girl was
+convinced. So, she settled into a routine. Every morning, Girl put on her blazer, tapped the black card to go up the elevator, smiled
+at other weworkers, grabbed an iced americano, and sat at her chosen desk in the corner.
+A man who always wore sunglasses sat next to her. She watched as he coded colorful
+indented lines, as he confidently strutted around with his AirPods on a remote meeting, as he
+stood up and chatted to almost every other member.
+A woman ",1,literature,mc50,1
+19,3,"Class was about to start — it was Lira's favorite. She couldn't take class exposed in the
+common area, and she couldn't book a room. Booking requires credits. Credits require money.
+The Girl missed the class.
+On Lira's computer, red letters screamed at her that an assignment was due soon. But it
+was Friday night. It would be humiliating to stay at WeWork on a Friday night.
+There was an issue with Lira's card. WeWork overcharged her, so she asked for a refund.
+This is the fifth time she has called them, but nothing ever happens. That's when Lira found out
+— WeWork was critically bankrupt and had been for some time.
+In the bathroom, tear after tear dropped through her hands. Money, cards, assignments,
+classes, clothes, lies, lies, lies.
+The guy with the sunglasses, who always sat next to her, he knew everyone's faces,
+everyone's jobs, but he couldn't name a single hobby, passion, or favorite food. In secret, he was
+unemployed. He pretended to be Malaysian on his membership to pay a lower fee. He talked to
+everyone out of desperation rather than casual networking. The girl with the lustrous black hair from the private offices, she left whenever she ",1,literature,mc50,1
+20,1,"I went to a store to buy an apple. It was harder than I thought. A couple of years ago, I would have entered that store, walked to the fruit aisle, and looked over a few different types of apples. I might have been frustrated then, bored of the same limited choices offered. Now, however, I was lost. Overwhelmed within a sea of apples. They were all there, staring at me–Honeycrisp, Ginger Gold, Red Delicious, but also Fuji, McIntosh, Cripps Pink, and all the others which my eyes couldn’t even begin to process. 
+For a moment, I smiled. “This is progress,” I thought. Then, I closed my eyes, took a few steps, and reached my hand outwards, until my fingers closed around a round, firm object. But had I made the right choice? 
+I blinked and looked down at the apple I held between the fingers of my left hand. In terms of appearance, it was similar to the remaining options surrounding me. It was reddish, somewhat stretched, with no contrasting factor. What made it different from all the other alternatives?  I thought back to one of the first AP physics classes of my senior year. Our lively teacher was ",4,literature,english,0
+20,2," “What makes you different from everybody else?” Initially, it appeared to be a profound philosophical question, out of place for a physics class. Yet, the simple, effortless answer surprised me. You see, as it is currently understood, we live in a three-dimensional world–length, width, and depth–and we experience those measurements through a fourth dimension we call time. Still, no one can ever share all four dimensions with you. You can share up to three; for instance, you could be in the same street, in the same building, in the same apartment, and standing in the exact same place as someone else, but not at the same time. Or you could be in the same street, in the same building, at the same time as another person, but in a different apartment. As it turns out, those four values are uniquely yours. 
+Were those numerical values what distinguished this apple? I wasn’t entirely convinced and hoped to better understand the lone fruit. So I did it the only way I knew how. I took a bite. 
+The flavor was unexpected–sweet, but bitter as well. Not the perfect taste I was craving, but distinctive. With each bite, I grew more accustomed to ",4,literature,english,0
+20,3," I was laughing and sprinkling cinnamon over the apple pie we had just baked, back when my grandfather still knew my name. It also reminded me of when my sisters, friends, and I were rolled up in blankets screaming in exasperation at the screen as Snow White fell for the poisoned apple hidden in the Evil Queen’s straw basket. It reminded me of when, during a break from violin practice, I asked dad to teach me how to juggle but had to stop after an apple almost crushed the wooden frame of the instrument. The memories kept flushing my brain, remembering desolate and euphoric moments: the contexts, experiences, and dimensions that constructed my person. 
+Was that the answer to my question? I still didn’t know. But afterward, I decided to keep the seeds. I looked frantically around my house until I found an empty clay vase. Small enough to be welcoming; large enough to allow space for growth; a perfect fit. I proceeded to fill it up with a potting soil mixture that read “perfect balance” on the package, and made a tiny furrow in the ground where I placed an apple seed. That apple’s seed. 
+Now I’m waiting to ",4,literature,english,0
+21,1,"In ""Story of Your Life,""  he interplays complex linguistic theories, philosophical inquiries,
+and natural sciences, weaving a narrative that pushes the boundaries of conventional storytelling.
+In particular, in a period of three pages (140-143 in the PDF I'm using), Chiang juxtaposes personal
+anecdotes and advancements in both physics and linguistics in an order that at first might appear
+random but, in fact, substantially contributes to the construction of a logical argument that
+improves the readers' understanding of the Hepatapods' life experience.
+At first, Chiang includes an anecdote about Louise's favorite joke, which touches on the topic of
+children blaming their parents for everything. Then, he moves on to explain Fermi's principle,
+emphasizing how cause-effect concepts are harder for Heptapods to understand, while the ones
+that describe purpose are considered fundamental in their society. Finally, he describes Flapper's
+process of writing a sentence in Heptapod B. Although all of these excerpts appear somewhat
+unrelated, they share a common message. A mother knows, before birth, that a child will blame her for nonsensical motives. The light knows,
+before moving, what its destination is, taking the fastest path to get there. Flapper knows, before
+writing the first stroke, how the sentence will be",1,literature,mc50,1
+21,2,"In the realm of appreciating literary works, the art of critique emerges as a keen-eyed
+investigator, delving into the depths to unveil countless intricacies. In this case, an implicit
+common conclusion is found between three excerpts presented in sequential order in the novel.
+Although very different in nature and content, the three passages build up to the resolution that
+Heptapods view life with a sense of purpose and end-goal, rather than a sequential path of
+causes and effects. In order to explain this concept to the reader and facilitate the audience’s
+understanding, Chiang beautifully juxtaposes physics, linguistics, and personal anecdotes,
+providing three different perspectives. By including multiple points of view, he is not only able to
+make sure a broad audience will understand the message (some audience members might
+understand the physics example better, while others might relate to linguistics), but he also uses
+different fields to increase the logical appeal of the concept he developed.
+Thus, by highlighting Chiang’s well-crafted structural organization, I added to my understanding
+of the strategies used in his writing, which significantly facilitated and solidified the audience’s
+understanding of the concept that the novel explores. In this sense, engaging in such analysis
+provided me with ",1,literature,mc50,1
+21,3,"To support his argument, the speaker begins by debunking the notion that nations have existed
+as unified entities tied to language, ethnicity, and borders throughout time. He chooses the
+well-known event of the French Revolution, often associated with fervent nationalism, and
+introduces lesser-known characteristics. For instance, he highlights the fact that, at the time, only
+a fraction (⅛) of the French population spoke the French language proficiently. This challenges
+the common perception that nations are defined by linguistic homogeneity. He further increases
+the impact of his evidence by providing a map of France and Europe divided into languages and
+ethnicities, respectively. The division illustrated in the map does not coincide at all with the
+borders of nations. Thus, by using this visual representation in conjunction with speech, he
+effectively emphasizes the disconnect between national borders and the linguistic and ethnic
+diversity within them. This serves to underscore his overarching argument that the traditional idea
+of nations being based on shared characteristics is a myth.
+The evidence goes on to demonstrate how historical and sociopolitical shifts, such as
+urbanization, technological advancements, and wars, played pivotal roles in shaping concepts of
+national identity. By including multiple types of evidence, including historical data, ",1,literature,mc50,1
+22,1,"In addition to the toxic environment of his childhood, Amir doesn't know how to deal with his affection towards Hassan, a Hazara boy that the remainder of society deems unworthy of respect, but manages to receive Baba's attention. Jealousy and the desperate need for approval are some of the factors that play into Amir's cowardice in sacrificing Hassan. Witnessing his best friend's rape further contributes to the hero's unusual childhood. The subsequent guilt that inundated Amir proved to be relentless even after decades have gone by. As a grown man living in America, Amir has come to the realization that ""it's wrong what they say about the past, I've learned, about how you can bury it. Because the past claws its way out"" (Hosseini, 1), finding himself unable to forget the sinful actions once committed. So, he is offered the chance to embark on his Hero's Journey when receiving a call from an old friend, Rahim Khan. With the words, ""Come. There is a way to be good again"" (Hosseini, 192), the herald assures the hero archetype that there is a way to regain the lost part of himself. So, as the hero flies above extensive terrains and oceans, he ",2,literature,english,0
+22,2,"In the place where a blue kite once blinded the protagonist’s morals, the adventure truly begins. Afghanistan has never been simple for Amir, and now he must strive past any challenges if he wishes to rescue his nephew, Sohrab, and finally make amends with Hassan and his past. For this exact purpose, the hero must walk the Road of Trials, a tortuous path in which he will face a series of tests necessary to begin the transformation. At the commencement of the pathway, Amir comes across Farid. The driver takes one look at the him and seems unsurprised, contemptuously remarking, ""What brings them all back to Afghanistan [...] is always the same thing, sell this land, sell that house, collect the money, and run away like a mouse."" The superficial motives described by Farid, however, would have no appeal to the hero, who seeks a more profound journey. Soon the driver comprehends the legitimacy and morality of Amir's motives and becomes a valuable ally, accompanying him to his next task down the road. Finding Sohrab in a devastated city proves to be more challenging than anticipated. Fear and distrust fill the dense atmosphere, leading the director of the orphanage that supposedly is providing for Sohrab to be wary about unlocking its door to strangers. A crack is opened to finally let them in, solely after Amir yells, ""There's hope for this boy, Agha, a way out. Please open the door. [...] I'm his half-uncle."" A brief discussion presents yet another seemingly impossible moral decision that Afghans are forced to face, and what the hero most feared is confirmed - Sohrab was taken by the Taliban. The violence and brutality that is often associated with this military organization soon make their appearance, as Amir and Farid witness the public stoning of ",2,literature,english,0
+22,3,"become the one-eyed-Assef using his slingshot, Amir undergoes the last stages of his journey. He escapes, recovers in Pakistan, and convinces Sohrab to join him and his family in the western world. Nonetheless, impediments traverse their way, including the complications with adopting Sohrab, which drives the child to nearly take his own life. As Amir later runs a kite and yells, ""For you, a thousand times over"", a smile lightens the face of the boy, and his journey for atonement concludes. Several demanding events lead the self-centered, insecure hero presented at the beginning of the novel to the mature man standing at the end, and diverse actions create a parallel between the two forms of the character. The watch and money left with virtuous intentions beneath a mattress of a poor family in Afghanistan reminisce similar objects left in a small hut with an incriminatory purpose. The description of Sohrab resembling a sacrificial lamb evokes memories of Hassan in a dark alley with a corresponding look in his eyes, and like Hassan once did for him, Amir, this time, bravely sacrifices himself. A blue kite that once tore a family apart now joins one together. A slingshot. A scarred lip. 
+",2,literature,english,0
